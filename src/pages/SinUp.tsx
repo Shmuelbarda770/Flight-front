@@ -5,7 +5,7 @@ import { FaUserAlt } from "react-icons/fa";
 
 const SinUp = () => {
 
-    
+
     const [email,setEmail]=useState('');
     const [userName,setUserName]=useState('');
     const [password,setPassword]=useState('');
